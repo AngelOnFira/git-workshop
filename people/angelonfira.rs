@@ -3,5 +3,5 @@ fn main() {
 }
 
 fn test() {
-    
+    // Adding some code to do a thing
 }
